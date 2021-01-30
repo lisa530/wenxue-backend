@@ -1,0 +1,6 @@
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG retry.py:210 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+DEBUG retry.py:210 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+DEBUG retry.py:210 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+DEBUG retry.py:210 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
